@@ -478,7 +478,7 @@
               "shouldScrollContents": true,
               "animateLoading": true,
               "parentColumnSpace": 12.5625,
-              "leftColumn": 41,
+              "leftColumn": 42,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
