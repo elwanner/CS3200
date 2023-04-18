@@ -2,12 +2,12 @@
   "pluginType": "API",
   "pluginId": "restapi-plugin",
   "unpublishedAction": {
-    "name": "cust_orders",
+    "name": "get_product_name",
     "datasource": {
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
-        "url": "web:4000/e/orders"
+        "url": "web:4000/c/productname"
       },
       "invalids": [],
       "messages": [],
@@ -16,7 +16,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Customer Orders ",
+    "pageId": "Order",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -48,7 +48,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "Customer Orders _cust_orders",
+  "id": "Order_get_product_name",
   "deleted": false,
-  "gitSyncId": "643c43dade65884ea5849c94_643c4dabde65884ea5849cac"
+  "gitSyncId": "643da2fdf6cff640801a5405_643ece320616e20282a608d3"
 }

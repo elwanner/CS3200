@@ -978,7 +978,7 @@
                       "responsiveBehavior": "fill",
                       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
                       "maxDynamicHeight": 9000,
-                      "decimals": 0,
+                      "decimals": 2,
                       "iconAlign": "left",
                       "defaultText": "",
                       "minDynamicHeight": 4
@@ -1037,7 +1037,7 @@
                       "responsiveBehavior": "fill",
                       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
                       "maxDynamicHeight": 9000,
-                      "decimals": 0,
+                      "decimals": 2,
                       "iconAlign": "left",
                       "defaultText": "",
                       "minDynamicHeight": 4
