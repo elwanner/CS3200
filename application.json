@@ -26,6 +26,9 @@
   "unreadCommentThreads": 0,
   "color": "#FFEBFB",
   "icon": "mug",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
